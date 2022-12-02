@@ -1,0 +1,12 @@
+sep=;
+Question;Choice1;Choice2;Choice3;Choice4;Answer
+What is the height in an HD Image?;480;720;1080;240;2
+What is the variable type of a? a = 'yes';Integer;Float;String;Character;3
+Is Python case sensitive when dealing with identifiers;no;yes;machine dependent;nota;1
+Which of the following is the correct extension of the Python file?;.python;.pl;.py;.p;3
+Which of the following is used to define a block of code in Python language?;Indentation;Key;Brackets;All of the mentioned;1
+Which of the following is not a core data type in Python programming?;Tuples;Lists;Class;Dictionary;3
+What is the maximum possible length of an identifier in Python?;79 characters;31 characters;63 characters;none of the mentioned;4
+What is output of print(math.pow(3, 2))?;9.0;None;9;None of the mentioned;1
+Which of the following is a Python tuple?;{1, 2, 3};{};[1, 2, 3];(1, 2, 3);4
+Which type of Programming does Python support?;object-oriented programming;structured programming;functional programming;all of the mentioned;4
